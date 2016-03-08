@@ -4,7 +4,7 @@ title: Gods of Egypt
 tags: review, movie, worst
 ---
 
-##What an utter shitfest
+What an utter shitfest
 
 I cannot believe I spent more then 2 hours of my life on this movie. Not only was it bad, it was awful. It was everything I ever dreamed Justin Bieber of being (until he released his latest album, which was surprisingly good).
 

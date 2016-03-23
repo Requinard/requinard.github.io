@@ -1,7 +1,7 @@
 ---
 layout: post
-title: {{ title }}
+title: /title/
 tags: software
 ---
 
-{{ title }}
+/title/

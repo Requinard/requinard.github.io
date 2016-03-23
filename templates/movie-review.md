@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Review: {{ Movie name }}
+title: Review: /movie/
 categories: movies, review
 ---
 
-{{ Movie name }}
+/movie/

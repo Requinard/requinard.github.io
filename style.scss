@@ -19,13 +19,13 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 15px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 960px;
   padding: 0 10px;
   width: 100%;
 }
@@ -132,6 +132,7 @@ img {
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
+
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -151,11 +152,11 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  padding-bottom: 10px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 20px 0 0 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
